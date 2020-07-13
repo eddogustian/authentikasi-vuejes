@@ -16,10 +16,10 @@
           <v-col md="12">
             <v-row>
               <v-col md="12">
-                <v-btn block color>Login</v-btn>
+                <v-btn block color="primary">Login</v-btn>
               </v-col>
               <v-col md="12">
-                <v-btn block color @click="redirectDaftar()">Daftar</v-btn>
+                <v-btn block color="primary" @click="redirectDaftar()">Daftar</v-btn>
               </v-col>
               <v-col md="12">
                 <p>

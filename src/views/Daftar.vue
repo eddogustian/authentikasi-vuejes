@@ -15,7 +15,7 @@
           <v-col>
             <v-row>
               <v-col md="12">
-                <v-btn color>Daftar</v-btn>
+                <v-btn color="primary">Daftar</v-btn>
               </v-col>
               <v-col>
                 <p>
